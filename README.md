@@ -6,7 +6,7 @@ This repository contains the official PyTorch implementation of the paper "TTA-E
 
 # ERDS Dataset
 
-\[[Download] (https://drive.google.com/drive/folders/1tTU625ZmXEz2Ngyjf4lq3Yv0ZgMxlgsC?usp=drive_link)\] 
+\[[Download](https://drive.google.com/drive/folders/1tTU625ZmXEz2Ngyjf4lq3Yv0ZgMxlgsC?usp=drive_link)\] 
 
 ## Reference
 
