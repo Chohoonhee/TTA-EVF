@@ -4,6 +4,9 @@ This repository contains the official PyTorch implementation of the paper "TTA-E
 \[[Paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Cho_TTA-EVF_Test-Time_Adaptation_for_Event-based_Video_Frame_Interpolation_via_Reliable_CVPR_2024_paper.pdf)\] 
 
 
+# ERDS Dataset
+
+\[[Download] (https://drive.google.com/drive/folders/1tTU625ZmXEz2Ngyjf4lq3Yv0ZgMxlgsC?usp=drive_link)\] 
 
 ## Reference
 
